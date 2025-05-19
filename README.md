@@ -57,6 +57,7 @@ Les données récupérer sont sur internet
 Tout d'abord, mon corpus est composé de 10 textes (paroles de chansons).  
 Pour le TP2, deux scripts on était réalisés. Le premier, scrape_lyrics.ipynb, me permet de récuperer les données (Texte) à partir des pages URLs que j'ai sélectionnées.    
 Le second script, scrape_clean.ipynb, nettoie les textes extraits en supprimant les éléments comme les balises [Chorus] ou autre.
+Cependant pour avoir accès aux documents il faudra lancer les scripts.
 
 ---
 
