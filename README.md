@@ -76,7 +76,8 @@ A partir des données récupérées, le script Csv_Augmentation.ipynb, me permet
 
 ## TP5 - TP6:  
 
-Le script Finetune.ipynb me permettra de Finetuner le modèle que j'ai utilisé précédemment, sachant qu'il correspond bien aux caractéristiques de mes données.   
+Le script Finetune.ipynb me permettra de Finetuner le modèle que j'ai utilisé précédemment, sachant qu'il correspond bien aux caractéristiques de mes données.  
+J'ai essayé d'upload les dossiers dans src cependant trop gros alors j'ai juste laissé le script pour que vous puissiez voir.  
 
 
 
