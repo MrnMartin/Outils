@@ -17,6 +17,7 @@ Il va développer, évaluer et comparer des systèmes de NER et faire progesser 
 - Quels types de modèles ont été entraînés sur CoNLL 2003 ?
   
 Ils existent différent type de modèles:  
+
 . Statistiques avec CRF (Conditional Random Fields)  
 . Transformers comme BERT  
   
@@ -30,18 +31,23 @@ On ne peux pas le considérer comme monolingue mais plus comme bilingue.
 ##TP2: Projet
 
 - Dans quel besoin vous inscrivez vous ?
+
 Ma recherche est de comprendre et analyser le contenu émotionnel des chansons
 
 - Quel sujet allez vous traiter ?
+
 J'aimerais détecter les émotions exprimées dans les chansons.
   
-- Quel type de tâche allez vous réaliser ?  
+- Quel type de tâche allez vous réaliser ?
+  
 Je vais réaliser une tâche de classification automatiquement visant à attribuer une émotion à chaque chanson 
   
-- Quel type de données allez vous exploiter ?  
+- Quel type de données allez vous exploiter ?
+
 Les données utilisé seront textuelle.
   
-- Où allez vous récupérer vos données ?  
+- Où allez vous récupérer vos données ?
+  
 Les données récupérer sont sur internet
 
 ---
